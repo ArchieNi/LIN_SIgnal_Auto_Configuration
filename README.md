@@ -154,7 +154,7 @@ enum LIN_Signal_IDs
    - 添加详细注释说明分段情况
 
 ## 许可证
-本项目采用 MIT 许可证 - 详情见 [LICENSE]([LICENSE](https://github.com/ArchieNi/LIN_SIgnal_Autoconfiguration/blob/main/LICENSE)) 文件。
+本项目采用 MIT 许可证 - 详情见 [LICENSE](https://github.com/ArchieNi/LIN_SIgnal_Autoconfiguration/blob/main/LICENSE) 文件。
 
 ---
 
