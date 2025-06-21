@@ -162,5 +162,5 @@ enum LIN_Signal_IDs
 
 > **提示**：建议使用 Python 3.7 或更高版本以获得最佳兼容性。完整脚本和示例文件可从项目仓库获取。
 
-**[⬇️ 下载完整脚本]([lin_cfg_generator.py](https://github.com/ArchieNi/LIN_SIgnal_Autoconfiguration/releases))**  
-**[⭐ 在 GitHub 上关注此项目](https://github.com/yourusername/lin-cfg-generator)**
+**[⬇️ 下载完整脚本](https://github.com/ArchieNi/LIN_SIgnal_Autoconfiguration/releases)**  
+**[⭐ 在 GitHub 上关注此项目](https://github.com/ArchieNi/LIN_Signal_Autoconfiguration)**
