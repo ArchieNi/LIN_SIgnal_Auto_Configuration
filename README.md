@@ -1,9 +1,10 @@
-# 🚀 LIN 信号配置生成工具 - 说明文档 | LIN Signal Configuration Generator Tool - Documentation
-## 概述
-这是一个 Python 工具，用于从 Excel 信号定义自动生成符合 LIN 总线规范的 C 语言头文件 (`lin_cfg.h`)。该工具简化了汽车电子开发中的 LIN 总线配置流程，支持错误检查、自动信号处理和多种使用方式。
+# 🚀 LIN 信号配置生成工具 - 说明文档  
+# 🚀 LIN Signal Configuration Generator Tool - Documentation
+这是一个 Python 工具，用于从 Excel 信号定义自动生成符合 LIN 总线规范的 C 语言头文件 (`lin_cfg.h`)。该工具简化了汽车电子开发中的 LIN 总线配置流程，支持错误检查、自动信号处理和多种使用方式。  
+This is a Python tool used to automatically generate C language header files (' LIN cfg.h ') that conform to the lin bus specification from Excel signal definitions. This tool simplifies the LIN bus configuration process in automotive electronics development and supports error checking, automatic signal processing and multiple usage methods.
 
-## 核心功能
-| 功能 | 描述 |
+## 核心功能 | core function
+| 功能|function | 描述|describe |
 |------|------|
 | 📊 Excel 导入 | 从 Excel 文件读取信号定义 |
 | 🔧 自动生成 | 创建符合规范的 LIN 配置头文件 |
