@@ -135,7 +135,6 @@ enum LIN_Signal_IDs
 工具会生成详细的错误报告，包括：
 - ❌ 缺少必要字段
 - ❌ 位置信息不一致
-- ❌ 联合体中跨字节的信号将被设置成相同的名称，注意在编译时区分
 - ⚠️ 默认值超出范围
 - ℹ️ 信号处理警告
 
@@ -152,7 +151,7 @@ enum LIN_Signal_IDs
 
 3. **跨字节信号**：
    - 自动拆分为多个8位段
-   - 添加详细注释说明分段情况
+   - 拆分信号完全同名，需要特别注意（同名可以通过IDE报错）
 
 ## 许可证
 本项目采用 MIT 许可证 - 详情见 [LICENSE](https://github.com/ArchieNi/LIN_SIgnal_Autoconfiguration/blob/main/LICENSE) 文件。
