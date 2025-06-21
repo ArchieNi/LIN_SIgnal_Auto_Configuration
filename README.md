@@ -1,7 +1,7 @@
 # 🚀 LIN 信号配置生成工具 - 完整文档
 
 ## 概述
-这是一个专业级的 Python 工具，用于从 Excel 信号定义自动生成符合 LIN 总线规范的 C 语言头文件 (`lin_cfg.h`)。该工具简化了汽车电子开发中的 LIN 总线配置流程，支持错误检查、自动信号处理和多种使用方式。
+这是一个 Python 工具，用于从 Excel 信号定义自动生成符合 LIN 总线规范的 C 语言头文件 (`lin_cfg.h`)。该工具简化了汽车电子开发中的 LIN 总线配置流程，支持错误检查、自动信号处理和多种使用方式。
 
 ## 核心功能
 | 功能 | 描述 |
@@ -27,7 +27,7 @@ pip install pandas openpyxl
 
 ### 方式二：命令行运行
 ```bash
-python lin_cfg_generator.py path/to/your/excel.xlsx
+python LIN_Signal_Autoconfiguration.py path/to/your/excel.xlsx
 ```
 
 ### 方式三：交互式选择
@@ -128,9 +128,9 @@ enum LIN_Signal_IDs
 ## 完整脚本
 ```python
 # 这里是完整的 Python 脚本代码
-# 由于代码较长，已放在单独的 lin_cfg_generator.py 文件中
+# 由于代码较长，已放在单独的 LIN_Signal_Autoconfiguration.py 文件中
 # 用户可以从以下链接下载完整脚本：
-# [下载脚本](https://example.com/lin_cfg_generator.py)
+# [下载脚本](https://github.com/ArchieNi/LIN_SIgnal_Autoconfiguration/releases)
 ```
 
 ## 错误报告
